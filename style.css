@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.bton:hover{
+  background-color: rgb(36, 242, 36);
+  transition: .3s ease;
+  border: none
+  ;
+ }
+
+#cv-form{
+  /* display: none; */
+}
+
+.def-Img{
+  border-radius: 10px;
+  width: 200px;
+}
+.backgr{
+  background: aqua;
+}
+
+#cv-temp{
+  display: none;
+}
